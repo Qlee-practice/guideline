@@ -1,8 +1,10 @@
 {
-  "name": "question-module",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "guideline-server",
+  "version": "0.0.1",
+  "main": "production.js",
+  "repository": "git@github.com:Qlee-practice/guideline.git",
   "license": "MIT",
+  "author": "li-qiang",
   "scripts": {
     "dev": "nodemon application.js --exec babel-node",
     "prod": "node production.js",
